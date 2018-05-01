@@ -1477,6 +1477,14 @@ Icon for all respective meta
   margin-right: 20px;
 }
 
+@media (min-width: 640px) {
+  .responsive-pull-right {
+    width: 40%;
+    float: right !important;
+  }
+}
+
+
 .contact-section address, .contact-section .contact-number {
   overflow: hidden;
   line-height: 30px;
