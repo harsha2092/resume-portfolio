@@ -370,6 +370,9 @@ ul.list-check li::before {
   margin-bottom: 20px;
 }
 
+.tt-fullHeight h1{
+  font-size: 20px !important;
+}
 .intro-name {
   font-style: italic;
 }
@@ -572,6 +575,7 @@ SOCIAL ICON
   border-bottom-right-radius: 10px;
   border: 1px solid #EEEEEE;
   position: relative;
+  display: none
 }
 
 .biography::after {
@@ -1718,6 +1722,7 @@ Icon for all respective meta
 
 .short-info h3 {
   margin-bottom: 30px;
+  margin-top: 20px;
   font-size: 20px;
 text-align: center;
 }
